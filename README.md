@@ -27,7 +27,7 @@ This application was developed using Java in Android Studio.
 <img width="423" height="816" alt="image" src="https://github.com/user-attachments/assets/3150679c-3817-425b-a37d-5fbc88d2621c" />
 
 ### Detail Recipe Page
-<img width="419" height="825" alt="image" src="https://github.com/user-attachments/assets/466a583e-7560-4678-9fb2-a5361b1d8a20" />
+<img width="426" height="827" alt="image" src="https://github.com/user-attachments/assets/b97c50a9-a89d-471f-a765-28830c6ee755" />
 
 ## Identity
 - Name: Fellia Claurine
