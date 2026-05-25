@@ -1,10 +1,8 @@
 # 🍰 SweetBites
-
 SweetBites is a modern Android application that displays sweet dessert recipes with a soft pink UI.  
 This application was developed using Java in Android Studio.
 
 ## Features
-
 - RecyclerView Grid Layout
 - Swipe Refresh Layout
 - Favorite Recipe Feature
@@ -13,7 +11,6 @@ This application was developed using Java in Android Studio.
 - Responsive Layout
 
 ## Technologies Used
-
 - Java
 - Android Studio
 - RecyclerView
@@ -33,10 +30,8 @@ This application was developed using Java in Android Studio.
 <img width="419" height="825" alt="image" src="https://github.com/user-attachments/assets/466a583e-7560-4678-9fb2-a5361b1d8a20" />
 
 ## Identity
-
 - Name: Fellia Claurine
 - NIM: 241050153
 
 ## Github Repository
-
 https://github.com/felliaclaurine/SweetBites
